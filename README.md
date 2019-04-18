@@ -20,3 +20,6 @@ You first need to make a local MongoDB database named `news`. Then, in a termina
 - [Express.js](https://expressjs.com/)
 - npm, including [express](https://www.npmjs.com/package/express) and [body-parser](https://www.npmjs.com/package/body-parser) packages.
 - [cheerio](https://cheerio.js.org/) for scraping the website
+
+
+@Copyright 2019
