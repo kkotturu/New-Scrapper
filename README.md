@@ -23,6 +23,7 @@ You first need to make a local MongoDB database named `news`. Then, in a termina
 - npm, including [express](https://www.npmjs.com/package/express) and [body-parser](https://www.npmjs.com/package/body-parser) packages.
 - [cheerio](https://cheerio.js.org/) for scraping the website
 
+<<<<<<< HEAD
 ## How to Deploy Changes
 The appcurrently runs on Heroku. We can set up Heroku like so: 
 
@@ -34,3 +35,7 @@ The appcurrently runs on Heroku. We can set up Heroku like so:
 ```bash
 git push heroku master
 ```
+=======
+
+@Copyright 2019
+>>>>>>> bde48f2bf3def72f0ebad03edafef15ae688a573
