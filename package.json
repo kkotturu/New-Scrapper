@@ -1,0 +1,28 @@
+{
+  "name": "news-scrapper",
+  "version": "1.0.0",
+  "description": "This is a full-stack JavaScript app built using MongoDB, Mongoose, Node.js, Express.js, Handlebars.js, HTML, and CSS. It scrapes the  [TechCrunch](https://techcrunch.com/) homepage and stores article titles and links, along with your notes and favorites, in MongoDB. The articles and notes collections reference each other through population.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkotturu/News-Scrapper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkotturu/News-Scrapper/issues"
+  },
+  "homepage": "https://github.com/kkotturu/News-Scrapper#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mongoose": "^5.5.1",
+    "request": "^2.88.0"
+  }
+}

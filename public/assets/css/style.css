@@ -1,0 +1,45 @@
+body{
+background-color: rgb(163, 193, 220)
+}
+
+.jumbotron {
+  background: url("../img/tech.jpg");
+}
+
+h1{
+  color:white;
+  /* font-weight: bold; */
+}
+
+.scrape-new{
+  background-color: #376707e3;
+  color: white !important;
+}
+
+.btn-primary {
+  background-color: #072a67;
+  color: white !important;
+}
+
+.note-item-list {
+  padding: 5px;
+}
+
+h1,
+.desc,
+.scrape-new,
+.navbar-brand,
+h3,
+.nav-link,
+.card, 
+.save , 
+.note-save-btn, 
+.note-cancel-btn,
+label,
+h5,
+#note-body,
+.delete-note-modal{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
